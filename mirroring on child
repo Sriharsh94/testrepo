@@ -1,0 +1,2 @@
+## checking file on child
+print ("verify the copying from master to child")
